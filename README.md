@@ -2,6 +2,3 @@
 test
 fhh
 hjj
-sb
-bnb
-new test
