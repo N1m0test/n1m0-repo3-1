@@ -2,6 +2,3 @@
 test
 fhh
 hjj
-hjh
-jkj
-owner commit
